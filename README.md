@@ -45,6 +45,7 @@ This project uses **Python (Google Colab)** and **ML models** to predict bugs ea
 |------|--------------|
 | `Software_Bug_Prediction.ipynb` | Python notebook for model building and validation |
 | `Software_Bug_Prediction_Presentation.pptx` | Research-based presentation slides |
+| `Article 31.pdf` | Research that was the project and the presentation was based on |
 | `README.md` | Project overview and documentation |
 
 ---
